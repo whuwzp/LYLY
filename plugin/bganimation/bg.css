@@ -1,16 +1,16 @@
-// .cb-slideshow li:nth-child(1) span { background-image: url('/img/b1.jpg');}
-// .cb-slideshow li:nth-child(2) span { background-image: url('/img/b2.jpg');}
-// .cb-slideshow li:nth-child(3) span { background-image: url('/img/b1.jpg');}
-// .cb-slideshow li:nth-child(4) span { background-image: url('/img/b2.jpg');}
-// .cb-slideshow li:nth-child(5) span { background-image: url('/img/b1.jpg');}
-// .cb-slideshow li:nth-child(6) span { background-image: url('/img/b2.jpg');}
+// .cb-slideshow li:nth-child(1) span { background-image: url('/LYLY/img/b1.jpg');}
+// .cb-slideshow li:nth-child(2) span { background-image: url('/LYLY/img/b2.jpg');}
+// .cb-slideshow li:nth-child(3) span { background-image: url('/LYLY/img/b1.jpg');}
+// .cb-slideshow li:nth-child(4) span { background-image: url('/LYLY/img/b2.jpg');}
+// .cb-slideshow li:nth-child(5) span { background-image: url('/LYLY/img/b1.jpg');}
+// .cb-slideshow li:nth-child(6) span { background-image: url('/LYLY/img/b2.jpg');}
 
-.cb-slideshow li:nth-child(1) span { background-image: url('/img/t1.jpg');}
-.cb-slideshow li:nth-child(2) span { background-image: url('/img/t2.jpg');}
-.cb-slideshow li:nth-child(3) span { background-image: url('/img/t1.jpg');}
-.cb-slideshow li:nth-child(4) span { background-image: url('/img/t2.jpg');}
-.cb-slideshow li:nth-child(5) span { background-image: url('/img/t1.jpg');}
-.cb-slideshow li:nth-child(6) span { background-image: url('/img/t2.jpg');}
+.cb-slideshow li:nth-child(1) span { background-image: url('/LYLY/img/t1.jpg');}
+.cb-slideshow li:nth-child(2) span { background-image: url('/LYLY/img/t2.jpg');}
+.cb-slideshow li:nth-child(3) span { background-image: url('/LYLY/img/t1.jpg');}
+.cb-slideshow li:nth-child(4) span { background-image: url('/LYLY/img/t2.jpg');}
+.cb-slideshow li:nth-child(5) span { background-image: url('/LYLY/img/t1.jpg');}
+.cb-slideshow li:nth-child(6) span { background-image: url('/LYLY/img/t2.jpg');}
 
 .hidden-xs{
 
